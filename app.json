@@ -79,7 +79,7 @@
     "OWNER_NAME":
     {
 
-    "desc": "Your Name",
+    "desc": "🆂🅾🅵🅰_🅶🅾🅳",
     "required": false,
     "value": "Gifted Tech"
   },
@@ -88,7 +88,7 @@
 
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254728782591,254762016957"
+    "value": "233538253138"
   },
     "WARN_COUNT":
   {
@@ -110,8 +110,8 @@
   },
   "PRESENCE":{
     "description":"Put online to indicate that you are ever online even if you are not. Put typing to indicate that you are currently typing a message. Put recording to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"online",
-    "required": false
+    "value":"typing",
+    "required": true 
   }  
   },
 
